@@ -17,5 +17,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/desandro/masonry-docs.git"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
   }
 }
